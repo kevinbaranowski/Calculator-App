@@ -1,0 +1,64 @@
+h2 {
+    text-align: right;
+    background-color: black;
+    border: 2px solid lightgray;
+    color: lightgray;
+}
+
+html, body {
+    background-color: lightgrey;
+}
+
+button {
+    background-color: rgb(47, 47, 47);
+    padding-left: 25px;
+    padding-right: 25px;
+    margin: 3px;
+    font-size: large;
+    font-weight: bold;
+    font-family: Marker Felt, fantasy;
+    border-radius: 10px;
+    color: lightgray;
+    border: 2px solid lightgray;
+}
+
+.button_div {
+    display: flex;
+    justify-content: center;
+    padding: .75rem;
+}
+
+#backspace {
+    font-size: x-large;
+}
+
+.operator {
+    background-color: #d9a300;
+}
+
+.operator:hover {
+    background-color: #d1ad40;
+}
+
+.delete {
+    background-color: lightgrey;
+    color: black; 
+}
+
+.delete:hover {
+    background-color: rgba(211, 211, 211, 0.738);
+}
+
+.numbers:hover {
+    background-color: rgb(85, 85, 85);
+}
+
+.calculator {
+    background-color: rgb(16, 16, 16);
+    border: 2px solid gold;
+    padding: 30px;
+    margin-right: 400px;
+    margin-left: 400px;
+    margin-top: 150px;
+    border-radius: 10px;
+}
