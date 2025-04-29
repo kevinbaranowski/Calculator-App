@@ -4,13 +4,12 @@ A basic calculator HTML application built with a focus on usability and simplici
 
 <h3>Features</h3>
 
-Perform basic calculations: addition, subtraction, multiplication, division, and supports decimal values.
-
-Click-based interface optimized for mouse use
-
-Keyboard input supported for quick data entry
-
-Clean and minimal user interface
+<ul>
+  <li>Perform basic calculations: addition, subtraction, multiplication, division, and supports decimal values.</li>
+  <li>Click-based interface optimized for mouse use</li>
+  <li>Keyboard input supported for quick data entry</li>
+  <li>Clean and minimal user interface</li>
+</ul>
 
 <h3>Platform Compatibility</h3>
 
@@ -20,13 +19,12 @@ May run on other platforms, but Windows users will have the best experience
 
 <h3>Usage</h3>
 
-Clone the repository
-
-Open index.html in your browser (paste path into browser URL)
-
-Use the mouse or keyboard to input numbers and operations
-
-View results instantly in the display area
+<ol>
+  <li>Clone the repository</li>
+  <li>Open index.html in your browser (paste path into browser URL)</li>
+  <li>Use the mouse or keyboard to input numbers and operations</li>
+  <li>View results instantly in the display area</li>
+</ol>
 
 <h3>Contributing</h3>
 
