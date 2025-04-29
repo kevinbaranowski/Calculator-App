@@ -1,8 +1,6 @@
 Simple Calculator App
 A basic calculator HTML application built with a focus on usability and simplicity. This app supports standard arithmetic operations and is optimized for use on Windows systems.
 
-![Calculator Screenshot](screenshot.png)
-
 Features
 Perform basic calculations: addition, subtraction, multiplication, division, and supports decimal values.
 
@@ -28,4 +26,6 @@ View results instantly in the display area
 
 Contributing
 This is a simple project meant for learning and basic use. Contributions are welcome for enhancements, UI improvements, or cross-platform support.
+
+![Calculator Screenshot](screenshot.png)
 
